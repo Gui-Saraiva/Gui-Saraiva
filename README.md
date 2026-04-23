@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Guilherme 👋
 
-<!--
-**Gui-Saraiva/Gui-Saraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm currently learning Python and building my first programming projects.
 
-Here are some ideas to get you started:
+🚀 Current focus:
+- Programming logic
+- Python exercises
+- Developing small projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Goal:
+To become a software developer and improve my skills through hands-on projects.
+
+📂 Here you will find my learning exercises and projects.
+
+##BR Português------------------------------------------------------------------------
+
+# Olá, eu sou o Guilherme 👋
+
+💻 Estou aprendendo Python e desenvolvendo meus primeiros projetos.
+
+🚀 Foco atual:
+- Lógica de programação
+- Exercícios em Python
+- Desenvolvimento de pequenos projetos
+
+📚 Objetivo:
+Me tornar um desenvolvedor e evoluir minhas habilidades com projetos práticos.
+
+📂 Aqui você vai encontrar meus exercícios e projetos de aprendizado.
